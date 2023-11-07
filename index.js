@@ -55,5 +55,5 @@ app.get('/api/shorturl/:shorturl', function(req, res) {
 });  
 
 app.listen(port, function() {
-  console.log(`Listening on port ${port}`);
+  console.log(`Listening on port http://localhost:${port}`);
 });
