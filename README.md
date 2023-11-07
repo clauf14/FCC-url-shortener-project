@@ -2,7 +2,7 @@
 
 ## How to run it?
 
-1.Clone the repo in your PC. /n
+1.Clone the repo in your PC. <br>
 2.Open the cloned folder with VSCode
 3.Open the *terminal* in VSCode and type *npm start*
 It should work!
